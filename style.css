@@ -1,0 +1,29 @@
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #cad7eb;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header styles */
+h1 {
+    color: #333;
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* Blockquote styles */
+blockquote {
+    font-style: italic;
+    color: #777;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Paragraph styles */
+p {
+    color: #555;
+    text-align: center;
+    margin-top: 30px;
+}
